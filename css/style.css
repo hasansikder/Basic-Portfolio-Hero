@@ -88,11 +88,27 @@ a{
     margin-top: 50px;
     margin-right: 90px;
 }
-/* Error */
-.bg-2nd-section{
-    background-image: url("images/shapes/shape-1.png");
+.bg-1st-section-img{
+    background-image: url(../images/shapes/top-banner.png);
+    background-repeat: no-repeat;   
 }
-/* new section*/
+.bg-2nd-section-img{
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+    margin-left: 30px;
+ 
+}
+.bg-3nd-section-img{
+    background-image: url(../images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 200px;
+    margin-right: 30px;
+
+}
+/* Global Community section start */
 .global-Community-style{
     margin-top: 50px;
     margin-left: 80px;
@@ -110,7 +126,7 @@ a{
 
 
 
-/*Footer section*/
+/*Footer section start*/
 footer{
     background-color: black;
     color: white;
