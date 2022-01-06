@@ -84,3 +84,9 @@ a{
 .bg-2nd-section{
     background-image: url("images/shapes/shape-1.png");
 }
+/* new section*/
+.global-Community-style{
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-right: 60px;
+}
