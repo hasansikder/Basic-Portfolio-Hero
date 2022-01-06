@@ -39,3 +39,34 @@ a{
     font-size: 20px;
 
 }
+.common-bg-color-1{
+    background-color: rgba(255, 99, 71, 0.267);
+    margin: 20px;
+    padding:30px 20px;
+    border-radius: 10px;
+    
+    
+}
+.common-bg-color-2{
+    background-color: rgba(123, 252, 18, 0.267);
+    margin: 20px;
+    padding:30px 20px;
+    border-radius: 10px;
+    
+    
+}
+.common-bg-color-3{
+    background-color: rgba(33, 10, 240, 0.267);
+    margin: 20px;
+    padding:30px 20px;
+    border-radius: 10px;
+    
+    
+}
+.mission-style{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.mission-aline{
+    text-align: center;
+}
