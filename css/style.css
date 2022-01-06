@@ -30,6 +30,9 @@ body{
 h1{
     font-size: 50px;
 }
+h3{
+    font-size: 40px;
+}
 a{
     background-color: rgb(26, 11, 243);
     padding: 10px 20px;
@@ -69,4 +72,15 @@ a{
 }
 .mission-aline{
     text-align: center;
+}
+.img-style{
+    margin-left: 80px;
+}
+.develop-item{
+    margin-top: 50px;
+    margin-right: 90px;
+}
+/* Error */
+.bg-2nd-section{
+    background-image: url("images/shapes/shape-1.png");
 }
